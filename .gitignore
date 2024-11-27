@@ -1,0 +1,20 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Local settings
+local_settings.py
+
+# Sensitive data
+secret_key.py
+
+# Large files
+media/
+static/
+
+# Logs
+logs/
